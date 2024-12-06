@@ -1,3 +1,5 @@
+DỰ ÁN SỬ DỤNG THƯ VIỆN JAVACV VÀ JAVAFX VUI LÒNG TẢI ĐỦ THƯ VIỆN TRƯỚC KHI CHẠY CÁC BƯỚC.
+
 1.	Cấu hình JAVACV:
 $Env:JAVACV_HOME = "C:\Program Files\Java\javacv"
 
